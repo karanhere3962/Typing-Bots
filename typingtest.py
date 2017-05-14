@@ -1,7 +1,7 @@
 import sys,time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-
+#if you are using linux include this line 'chrome_path = "path of chromeDriver"'
 driver=webdriver.Chrome()
 driver.get("https://10fastfingers.com/typing-test/english")
 
