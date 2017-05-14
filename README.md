@@ -1,5 +1,5 @@
 # 10fastfingers
-A small program to automate the typing test in 10fastfingers.com website. Written in python. - by Karan Kumar Chettri
+A small program to automate the typing test in 10fastfingers.com website. Written in python. This program is meant for learning purposes only and I am not realiable for any malpractice using this code. Made by - Karan Kumar Chettri
 
 Setup Required - you need a few things to run this program:
 - Python 3.x installed and configured (mine is 3.6.0)
