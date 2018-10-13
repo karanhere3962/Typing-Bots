@@ -8,3 +8,10 @@ Setup Required - you need a few things to run this program:
 - Detailed instruction about installation can be found in this link - http://selenium-python.readthedocs.io/installation.html
 
 After completion you are all set for running the program. Just run it through terminal or cmd. It gives around 361wpm in around 30 seconds in my system, result varies with processor and not the net speed.
+
+# TypeRacer
+Small program to automate typing test in typeracer.com website. Written in python. This program is meant for learning purposes only and I am not reliable for any malpractice using this code.
+
+Setup is similar to the program for 10fastfingers.
+
+Spacebar is to be pressed for entering words to control words per minute. This is made so because if wpm exceeds 100, they ask for a custom test where words have to be entered from an image.
